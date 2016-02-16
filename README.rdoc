@@ -1,0 +1,1 @@
+A simple rails CRUD app for searching projects to work on
